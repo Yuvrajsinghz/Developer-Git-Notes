@@ -1,5 +1,5 @@
 # Git & GitHub Commands Notes
-
+  
 ## 1. Git Configuration
 
 ### Check Git Version
