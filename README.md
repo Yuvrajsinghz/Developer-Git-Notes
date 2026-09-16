@@ -1,4 +1,4 @@
-# Git & GitHub Commands Notes
+# Git & GitHub Commands Notes 
   
 ## 1. Git Configuration
 
