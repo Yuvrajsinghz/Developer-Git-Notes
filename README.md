@@ -13,7 +13,7 @@ git --version
 ```bash
 git config --global user.name "Your Name"
 ```
-
+ 
 ### Set Email
 
 ```bash
