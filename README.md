@@ -14,7 +14,7 @@ git --version
 git config --global user.name "Your Name"
 ```
  
-### Set Email
+### Set Email 
 
 ```bash
 git config --global user.email "your@email.com"
